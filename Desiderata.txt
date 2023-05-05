@@ -1,3 +1,7 @@
+<html>
+<body>
+
+<p>
 Go placidly amid the noise and the haste, and remember what 
 peace there may be in silence. As far as possible, without 
 surrender, be on good terms with all persons.
@@ -40,3 +44,7 @@ whatever you conceive Him to be. And whatever your labors and
 aspirations, in the noisy confusion of life, keep peace in 
 your soul. With all its sham, drudgery and broken dreams, it 
 is still a beautiful world. Be cheerful. Strive to be happy.
+
+</p>
+</body>
+</html>
